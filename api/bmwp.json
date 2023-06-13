@@ -1,0 +1,462 @@
+[
+    {
+        "family": "Polythoridae",
+        "group": "Odonata",
+        "score": 9
+    },
+    {
+        "family": "Cordulegastridae",
+        "group": "Odonata",
+        "score": 8
+    },
+    {
+        "family": "Corduliidae",
+        "group": "Odonata",
+        "score": 8
+    },
+    {
+        "family": "Aeshnidae",
+        "group": "Odonata",
+        "score": 8
+    },
+    {
+        "family": "Perilestidae",
+        "group": "Odonata",
+        "score": 8
+    },
+    {
+        "family": "Gomphidae",
+        "group": "Odonata",
+        "score": 7
+    },
+    {
+        "family": "Lestidae",
+        "group": "Odonata",
+        "score": 7
+    },
+    {
+        "family": "Megapodagrionidae",
+        "group": "Odonata",
+        "score": 7
+    },
+    {
+        "family": "Libellulidae",
+        "group": "Odonata",
+        "score": 6
+    },
+    {
+        "family": "Calopterygidae",
+        "group": "Odonata",
+        "score": 4
+    },
+    {
+        "family": "Coenagrionidae",
+        "group": "Odonata",
+        "score": 4
+    },
+    {
+        "family": "Blephariceridae",
+        "group": "Diptera",
+        "score": 9
+    },
+    {
+        "family": "Athericidae",
+        "group": "Diptera",
+        "score": 9
+    },
+    {
+        "family": "Dixidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Simuliidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Tipulidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Dolichopodidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Empididae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Muscidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Sciomyzidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Ceratopogonidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Stratiomyidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Tabanidae",
+        "group": "Diptera",
+        "score": 4
+    },
+    {
+        "family": "Psychodidae",
+        "group": "Diptera",
+        "score": 3
+    },
+    {
+        "family": "Chironomidae",
+        "group": "Diptera",
+        "score": 2
+    },
+    {
+        "family": "Culicidae",
+        "group": "Diptera",
+        "score": 2
+    },
+    {
+        "family": "Ephydridae",
+        "group": "Diptera",
+        "score": 2
+    },
+    {
+        "family": "Syrphidae",
+        "group": "Diptera",
+        "score": 1
+    },
+    {
+        "family": "Heptageniidae",
+        "group": "Ephemeroptera",
+        "score": 9
+    },
+    {
+        "family": "Leptophlebiidae",
+        "group": "Ephemeroptera",
+        "score": 8
+    },
+    {
+        "family": "Isonychiidae",
+        "group": "Ephemeroptera",
+        "score": 6
+    },
+    {
+        "family": "Leptohyphidae",
+        "group": "Ephemeroptera",
+        "score": 5
+    },
+    {
+        "family": "Oligoneuriidae",
+        "group": "Ephemeroptera",
+        "score": 5
+    },
+    {
+        "family": "Polymitarcyidae",
+        "group": "Ephemeroptera",
+        "score": 5
+    },
+    {
+        "family": "Baetidae",
+        "group": "Ephemeroptera",
+        "score": 5
+    },
+    {
+        "family": "Caenidae",
+        "group": "Ephemeroptera",
+        "score": 4
+    },
+    {
+        "family": "Perlidae",
+        "group": "Plecoptera",
+        "score": 9
+    },
+    {
+        "family": "Lepidostomatidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Odontoceridae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Hydrobiosidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Ecnomidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Limnephilidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Calamoceratidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Leptoceridae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Glossosomatidae",
+        "group": "Trichoptera",
+        "score": 8
+    },
+    {
+        "family": "Philopotamidae",
+        "group": "Trichoptera",
+        "score": 7
+    },
+    {
+        "family": "Hydroptilidae",
+        "group": "Trichoptera",
+        "score": 6
+    },
+    {
+        "family": "Polycentropodidae",
+        "group": "Trichoptera",
+        "score": 6
+    },
+    {
+        "family": "Hydropsychidae",
+        "group": "Trichoptera",
+        "score": 5
+    },
+    {
+        "family": "Helicopsychidae",
+        "group": "Trichoptera",
+        "score": 5
+    },
+    {
+        "family": "Ptilodactylidae",
+        "group": "Coleoptera",
+        "score": 7
+    },
+    {
+        "family": "Psephenidae",
+        "group": "Coleoptera",
+        "score": 7
+    },
+    {
+        "family": "Lutrochidae",
+        "group": "Coleoptera",
+        "score": 7
+    },
+    {
+        "family": "Dryopidae",
+        "group": "Coleoptera",
+        "score": 5
+    },
+    {
+        "family": "Hydraenidae",
+        "group": "Coleoptera",
+        "score": 5
+    },
+    {
+        "family": "Elmidae",
+        "group": "Coleoptera",
+        "score": 5
+    },
+    {
+        "family": "Limnichidae",
+        "group": "Coleoptera",
+        "score": 5
+    },
+    {
+        "family": "Chrysomelidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Curculionidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Haliplidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Lampyridae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Staphylinidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Dytiscidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Gyrinidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Scirtidae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Noteridae",
+        "group": "Coleoptera",
+        "score": 4
+    },
+    {
+        "family": "Hydrophilidae",
+        "group": "Coleoptera",
+        "score": 3
+    },
+    {
+        "family": "Gammaridae",
+        "group": "Amphipoda",
+        "score": 7
+    },
+    {
+        "family": "Corydalidae",
+        "group": "Megaloptera",
+        "score": 6
+    },
+    {
+        "family": "Pyralidae",
+        "group": "Lepidoptera",
+        "score": 5
+    },
+    {
+        "family": "Crustacea",
+        "group": "Crustacea",
+        "score": 5
+    },
+    {
+        "family": "Turbellaria",
+        "group": "Platyhelminthes ",
+        "score": 5
+    },
+    {
+        "family": "Belostomatidae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Corixidae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Naucoridae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Pleidae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Nepidae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Notonectidae",
+        "group": "Hemiptera",
+        "score": 4
+    },
+    {
+        "family": "Hydracarina",
+        "group": "Trombidiformes",
+        "score": 4
+    },
+    {
+        "family": "Valvatidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Hydrobiidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Lymnaeidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Physidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Planorbidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Bithyniidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Bythinellidae",
+        "group": "Gastropoda",
+        "score": 3
+    },
+    {
+        "family": "Sphaeriidae",
+        "group": "Sphaeriida",
+        "score": 3
+    },
+    {
+        "family": "Glossiphoniidae",
+        "group": "Rhynchobdellida",
+        "score": 3
+    },
+    {
+        "family": "Hirudinidae",
+        "group": "Arhynchobdellida",
+        "score": 3
+    },
+    {
+        "family": "Erpobdellidae",
+        "group": "Arhynchobdellida",
+        "score": 3
+    },
+    {
+        "family": "Asellidae",
+        "group": "Isopoda",
+        "score": 3
+    },
+    {
+        "family": "Oligochaeta ",
+        "group": "Oligochaeta ",
+        "score": 1
+    }
+]
